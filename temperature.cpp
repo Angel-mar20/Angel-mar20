@@ -26,3 +26,6 @@ int main()
 
     if (choice == 1)
     {
+        cout << "Enter temperature in Celsius: ";
+        cin >> temperature;
+        convertToFahrenheit(temperature);
