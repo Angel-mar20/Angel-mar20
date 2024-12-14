@@ -33,3 +33,8 @@ int main()
     else if (choice == 2)
     {
         cout << "Enter temperature in Fahrenheit: ";
+        cin >> temperature;
+        convertToCelsius(temperature);
+    }
+    else
+    {
