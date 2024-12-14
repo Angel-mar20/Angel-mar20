@@ -17,3 +17,6 @@ int main()
 {
     int choice;
     float temperature;
+
+    cout << "Temperature Converter" << endl;
+    cout << "1. Convert Celsius to Fahrenheit" << endl;
