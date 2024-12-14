@@ -29,3 +29,7 @@ int main()
         cout << "Enter temperature in Celsius: ";
         cin >> temperature;
         convertToFahrenheit(temperature);
+    }
+    else if (choice == 2)
+    {
+        cout << "Enter temperature in Fahrenheit: ";
