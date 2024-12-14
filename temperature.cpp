@@ -38,3 +38,8 @@ int main()
     }
     else
     {
+        cout << "Invalid choice!" << endl;
+    }
+
+    return 0;
+}
