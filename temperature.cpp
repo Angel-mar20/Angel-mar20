@@ -20,3 +20,5 @@ int main()
 
     cout << "Temperature Converter" << endl;
     cout << "1. Convert Celsius to Fahrenheit" << endl;
+    cout << "2. Convert Fahrenheit to Celsius" << endl;
+    cout << "Enter your choice (1 or 2): ";
